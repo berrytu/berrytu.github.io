@@ -66,4 +66,31 @@ var myLastName = "kiflit" ;
 
 var myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
 
+var myStr="FirstLine\n\t\\SecondLine\nThirdLine"; 
+
+var myStr = "This is the start. " + "This is the end.";
+
+var myStr = "This is the first sentence. ";
+myStr += "This is the second sentence.";
+
+var myName = "bereketAsmeromKiflit";
+var myStr = "My name is " + myName + "and I am well";
+
+var someAdjective = "mindWork!";
+var myStr = "Learning to code is ";
+myStr += someAdjective;
+
+lastNameLength = lastName.length;
+
+firstLetterOfLastName = lastName[0];
+
+myStr = "Hello World"; // Fix Me
+
+var thirdLetterOfLastName = lastName[2];
+
+var lastLetterOfLastName = lastName[lastName.length - 1];
+
+var secondToLastLetterOfLastName = lastName[lastName.length - 2];
+
+
 
