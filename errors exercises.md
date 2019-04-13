@@ -7,7 +7,7 @@ broken code:
 let value = 0;
 while (value < 9) 
   value++;
-};
+;
 ```
 error message:
 ```
