@@ -94,6 +94,8 @@ var secondToLastLetterOfLastName = lastName[lastName.length - 2];
 
 return result+= "My "+myAdjective+" "+myNoun+" "+myVerb+" very "+myAdverb+".";  Basic JavaScript: Word Blanks
 
+
+
 var myArray = ["berry", 27]; Basic JavaScript: Store Multiple Values in one Variable using JavaScript Arrays
 
 var myArray = [["berry", 27], ["hani", 21]]; Basic JavaScript: Nest one Array within Another Array
